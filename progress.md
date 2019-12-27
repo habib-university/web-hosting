@@ -1,7 +1,7 @@
 # Daily Progress
 
 ## Friday, 27 December, 2019
-Learnt about LAMP
+#Learnt about LAMP
 Searched for methods to setup multiple users on LAMP ans assigning each user their protected space.
 
 ## Thursday, 26 December, 2019
