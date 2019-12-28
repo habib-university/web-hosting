@@ -12,3 +12,10 @@ There are 3 files for now.
 - progress.md: to track daily progress
 - queries.md: to collect and solve queries
 - resources.md: links to useful resources
+
+## Winter Break Deliverables
+- Set up an SFTP server that uses HU's Active Directory for authentication
+    - Set up user accounts with a fixed quota
+- Set up an Apache web server accessible at a desired URL
+    - URL to be finalized with WS
+- Link the webserver to the SFTP accounts
