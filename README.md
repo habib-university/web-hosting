@@ -15,7 +15,8 @@ There are 3 files for now.
 
 ## Winter Break Deliverables
 - Set up an SFTP server that uses HU's Active Directory for authentication
-    - Set up user accounts with a fixed quota
+    - if no integration with HU's AD, then introduce new login credentials
+    - Set up user accounts with a fixed quota, possibly using [cPanel](https://cpanel.net)
 - Set up an Apache web server accessible at a desired URL
     - URL to be finalized with WS
 - Link the webserver to the SFTP accounts
