@@ -1,5 +1,12 @@
 # Daily Progress
 
+
+## Thursday, 2 January, 2020
+- Searched methods to setup disk limits for users on LAMP server
+- Installed disk quoata and quotatools module on server
+- Setup 1GB limit per user
+- Time: 4:30pm to 7:30pm
+
 ## Wednesday, 1 January, 2020
 - Created a fresh virtual server
 - Installed LAMP
