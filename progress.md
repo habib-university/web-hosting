@@ -1,5 +1,16 @@
 # Daily Progress
 
+## Monday, 13 January, 2020
+- Installed and set up all the required components on the server.
+- Created test user (waqarsaleem)
+- Time: 10:30am to 1:00pm, 2:30pm to 5:30pm
+
+## Friday, 10 January, 2020
+- Installed Ubuntu Server 18.04 on Habib Server
+- Time: 3:30pm to 5:30pm
+
+## Tuesday, 7 January, 2020
+- Meeting 3:30pm to 4:30pm
 
 ## Thursday, 2 January, 2020
 - Searched methods to setup disk limits for users on LAMP server
